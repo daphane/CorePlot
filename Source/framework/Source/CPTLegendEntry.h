@@ -15,7 +15,7 @@
 
 /// @name Plot Info
 /// @{
-@property (nonatomic, readwrite, assign) __weak CPTPlot *plot;
+@property (nonatomic, readwrite, assign) CPTPlot *plot;
 @property (nonatomic, readwrite, assign) NSUInteger index;
 ///	@}
 
